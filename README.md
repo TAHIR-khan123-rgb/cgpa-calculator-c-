@@ -1,4 +1,4 @@
 # codealpha_tasks
 cgpa calculator
 banking system
-these projects r done by using c++ programing language
+these project r done by using c++ programing language
